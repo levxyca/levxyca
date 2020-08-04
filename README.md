@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leticia.</h1>
-<h3 align="center">Spiring writer, live coding streamer and posts some cool tech content out there.</h3>
+<h3 align="center">Aspiring writer, live coding streamer and posts some cool tech content out there.</h3>
 
 - 🌱 I’m currently learning **the front end ecosystem (JS, HTML, CSS) and more...**
 
