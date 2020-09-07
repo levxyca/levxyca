@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Leticia.</h1>
-<h3 align="center">Aspiring writer, live coding streamer and posts some cool tech content out there.</h3>
+![](header.png)
 
-- 🌱 I’m currently learning **the front end ecosystem (JS, HTML, CSS) and more...**
+<h2 align="center">Hello world! I'm Leticia.</h2>
+<h3 align="center">Front-end Developer and Live Coder at Twitch.</h3>
 
-- 📫 How to reach me **leticialeonardo.contato@gmail.com**
+I love contributing to the community with [live coding](https://www.twitch.tv/levxyca) and I also share all [my summaries and exercises](https://github.com/levxyca/studynotes) as I study.
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p><p align="center">
-<a href="https://twitter.com/levxyca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="levxyca" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/leticiacaroline" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leticiacaroline" height="30" width="30" /></a>
-<a href="https://fb.com/levxycas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="levxycas" height="30" width="30" /></a>
-<a href="https://instagram.com/levxyca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="levxyca" height="30" width="30" /></a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/levxyca?style=social)](https://twitter.com/levxyca)
+[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacaroline/)](https://www.linkedin.com/in/leticiacaroline/)
+[![Twitch: loianegroner](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/levxyca)](https://www.twitch.tv/levxyca)
+
+## ⚡ Technologies
+
+Technologies I'm learning and developing:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
