@@ -1,5 +1,3 @@
-![](header.png)
-
 <h2 align="center">Hello world! I'm Leticia.</h2>
 <h3 align="center">Front-end Developer and Live Coder at Twitch.</h3>
 
