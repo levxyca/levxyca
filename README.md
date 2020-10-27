@@ -1,14 +1,5 @@
 <img src="https://pbs.twimg.com/profile_banners/1035093640232820738/1595814901/1500x500" />
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levxyca&hide=html&layout=compact&theme=monokai&count_private=true&show_icons=true" /></td>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=levxyca&theme=monokai&count_private=true&show_icons=true"/></td>
-    </tr>   
-</table>
-</center> 
-
 <h2 align="center">< Leticia Caroline /></h2>
 <h3 align="center">Front-end Developer and Live Coder at Twitch.</h3>
 
