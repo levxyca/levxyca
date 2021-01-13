@@ -18,4 +18,4 @@ Sou live coder na [Twitch](https://www.twitch.tv/levxyca), é o meu refugio onde
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 💌 Entre em contato comigo
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="mailto:leticialeonardo.contato@gmail.com"></a></img>
+<a href="mailto:leticialeonardo.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
