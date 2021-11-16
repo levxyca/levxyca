@@ -1,12 +1,19 @@
-![Banner Perfil](https://user-images.githubusercontent.com/19956731/129202843-e4522fbd-868e-4bd6-9529-3a6eeef725f2.jpg)
 
-Hobbies demais, introvertida, conversas sobre tech e aleatoriedades, registrando minha jornada ✨ (ela/dela) 
+<img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-- ‎‍💻 | dev newbie front-end
-- 🎥 | streamer de live coding
-- 🚀 | criadora de conteúdo de programação e tecnologia
+```diff
+Leticia 'levxyca' ⭐
 
------------------------------------------
+Hobbies demais, introvertida, conversas sobre tech e aleatoriedades, registrando minha jornada.
+
+! ‍dev web
+! streamer de live coding
+! criadora de conteúdo de programação e tecnologia
+! co-fundadora da @feministech
+```
+
+### 🔗 Me encontre
+
 <a href="https://www.twitch.tv/levxyca"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://twitter.com/levxyca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.instagram.com/levxyca/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
