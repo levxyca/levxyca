@@ -24,6 +24,8 @@ Hobbies demais, introvertida, conversas sobre tech e aleatoriedades, registrando
 ### 📕 Blog posts recentes
 
 <!-- BLOG-POST-LIST:START -->
+- [Inicie no mundo open-source participando da Hacktoberfest](https://dev.to/levxyca/inicie-no-mundo-open-source-participando-da-hacktoberfest-3np6)
+- [[PT-BR] Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Videos recentes no Youtube
