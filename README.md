@@ -31,4 +31,8 @@ Hobbies demais, introvertida, conversas sobre tech e aleatoriedades, registrando
 ### 📺 Videos recentes no Youtube
 
 <!-- YOUTUBE:START -->
+- [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
+- [Sobre aprender coisas novas](https://www.youtube.com/watch?v=0Qga_1UEz0M)
+- [Como decidir o que estudar para se tornar uma pessoa desenvolvedora?](https://www.youtube.com/watch?v=lDOK4Ua43-c)
+- [Como descobri a área de TI?](https://www.youtube.com/watch?v=D0Y8AJ6oMn0)
 <!-- YOUTUBE:END -->
