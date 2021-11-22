@@ -10,6 +10,7 @@ Hobbies demais, introvertida, conversas sobre tech e aleatoriedades, registrando
 ! streamer de live coding
 ! criadora de conteúdo de programação e tecnologia
 ! co-fundadora da @feministech
+! GitHub Star
 ```
 
 ### 🔗 Me encontre
