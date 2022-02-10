@@ -32,6 +32,7 @@
 #### 📺 Videos recentes no Youtube
 
 <!-- YOUTUBE:START -->
+- [unboxing github stars ⭐](https://www.youtube.com/watch?v=bhWco_QQPgM)
 - [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
 - [Sobre aprender coisas novas](https://www.youtube.com/watch?v=0Qga_1UEz0M)
 - [Como decidir o que estudar para se tornar uma pessoa desenvolvedora?](https://www.youtube.com/watch?v=lDOK4Ua43-c)
