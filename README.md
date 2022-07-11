@@ -8,7 +8,8 @@
 > conversa sobre tech e aleatoriedades;
 > registra sua jornada pelas redes sociais.
 
-! ‍dev web front-end
+! ‍desenvolvedora de software
+! apaixonada por front-end
 ! streamer de live coding
 ! criadora de conteúdo de programação e tecnologia
 ! co-fundadora/coordenadora da @feministech
