@@ -8,7 +8,7 @@
 > conversa sobre tech e aleatoriedades;
 > registra sua jornada pelas redes sociais.
 
-! ‍desenvolvedora de software
+! ‍desenvolvedora de mobile flutter
 ! apaixonada por front-end
 ! streamer de live coding
 ! criadora de conteúdo de programação e tecnologia
