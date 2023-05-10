@@ -39,7 +39,7 @@
 #### 📺 Videos recentes no Youtube
 
 <!-- YOUTUBE:START -->
-- [Unboxing Alura Stars ⭐](https://www.youtube.com/watch?v=QqNW2OFz6Kg)
+- [unboxing alura stars ⭐](https://www.youtube.com/watch?v=QqNW2OFz6Kg)
 - [unboxing github stars ⭐](https://www.youtube.com/watch?v=bhWco_QQPgM)
 - [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
 - [Sobre aprender coisas novas](https://www.youtube.com/watch?v=0Qga_1UEz0M)
