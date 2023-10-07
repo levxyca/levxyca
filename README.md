@@ -1,10 +1,11 @@
-
-<img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 ```diff
-< Leticia 'levxyca' ⭐
+@@ Leticia 'levxyca' ⭐ @@
+@@ comunicação, tecnologia e pessoas! @@
 
-> tem hobbies demais, é introvertida;
+> tem hobbies demais;
+> é introvertida e comunicadora;
 > conversa sobre tech e aleatoriedades;
 > registra sua jornada pelas redes sociais.
 
@@ -15,6 +16,10 @@
 ! co-fundadora/coordenadora da @feministech
 ! tech community manager na abacatinhos.dev
 ! estudante do universo de devlrel
+
+- alura star
+- github star
+- embaixadora women tech makers da google
 ```
 
 #### 🔗 Me encontre
@@ -26,7 +31,7 @@
 <a href="https://www.linkedin.com/in/leticiacaroline/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.polywork.com/levxyca"><img src="https://img.shields.io/badge/Polywork-0077B5?style=for-the-badge&logo=polywork&logoColor=white"></img></a>
 
-#### 📕 Blog posts recentes
+#### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
 - [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
