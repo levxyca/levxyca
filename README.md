@@ -34,11 +34,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [Manipulando listas e mapas no Flutter](https://dev.to/feministech/manipulando-listas-e-mapas-no-flutter-81h)
 - [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
 - [Pra não esquecer mais: Stateless x Stateful no Flutter](https://dev.to/feministech/pra-nao-esquecer-mais-stateless-x-stateful-no-flutter-58eg)
 - [Nasce uma estrela: como funciona o programa GitHub Stars?](https://dev.to/feministech/nasce-uma-estrela-como-funciona-o-programa-github-stars-1p7p)
 - [GitHub Student: conseguindo ofertas e benefícios dos parceiros GitHub.](https://dev.to/feministech/github-student-conseguindo-ofertas-e-beneficios-dos-parceiros-github-1c6n)
-- [Inicie no mundo open-source participando da Hacktoberfest](https://dev.to/feministech/inicie-no-mundo-open-source-participando-da-hacktoberfest-3np6)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
