@@ -34,11 +34,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [Tecnologia, comunicação e pessoas: descubra o papel de uma pessoa Tech Community Manager.](https://dev.to/feministech/tecnologia-comunicacao-e-pessoas-descubra-o-papel-de-uma-pessoa-tech-community-manager-3726)
 - [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://dev.to/feministech/desenvolva-suas-habilidades-de-programacao-de-forma-divertida-10-jogos-para-aprender-programacao-23fc)
 - [To never forget again: Stateless vs. Stateful in Flutter](https://dev.to/feministech/to-never-forget-again-stateless-vs-stateful-in-flutter-ho0)
 - [Diciotech: o dicionário tech colaborativo que você pode ajudar a construir](https://dev.to/feministech/diciotech-o-dicionario-tech-colaborativo-que-voce-pode-ajudar-a-construir-14c4)
 - [Manipulando listas e mapas no Flutter](https://dev.to/feministech/manipulando-listas-e-mapas-no-flutter-81h)
-- [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
