@@ -44,9 +44,9 @@
 #### 📺 Videos recentes no Youtube
 
 <!-- YOUTUBE:START -->
+- [Já ficou com aquele sentimento de não encontrar o que queria no universo da tecnologia? #tech](https://www.youtube.com/watch?v=lwyRtn4f874)
 - [unboxing alura stars ⭐](https://www.youtube.com/watch?v=QqNW2OFz6Kg)
 - [unboxing github stars ⭐](https://www.youtube.com/watch?v=bhWco_QQPgM)
 - [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
 - [Sobre aprender coisas novas](https://www.youtube.com/watch?v=0Qga_1UEz0M)
-- [Como decidir o que estudar para se tornar uma pessoa desenvolvedora?](https://www.youtube.com/watch?v=lDOK4Ua43-c)
 <!-- YOUTUBE:END -->
