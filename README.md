@@ -46,5 +46,5 @@
 <!-- YOUTUBE:END -->
 
 #### 🌐 Posts recentes no LinkedIn
-<!-- LIKNEDIN:START -->
-<!-- LIKEDIN:END -->
+<!-- LINKEDIN:START -->
+<!-- LINKEDIN:END -->
