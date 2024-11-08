@@ -6,21 +6,27 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts and videos
+    name: Update this repo's README with latest levxyca's posts
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       
-      - name: Pull in dev.to posts
+      - name: Gathering blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://dev.to/feed/levxyca"
+          feed_list: "https://www.levxyca.com/rss"
 
       - name: Gathering YouTube Videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC0oAypdScDI9WiwvebIqiOQ"
+          
+      - name: Gathering Linkedin Posts 
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: LINKEDIN
+          feed_list: "https://rss.app/feeds/WCzecPxOuiqBoDpX.xml"
