@@ -44,10 +44,3 @@
 - [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
 - [Sobre aprender coisas novas](https://www.youtube.com/watch?v=0Qga_1UEz0M)
 <!-- YOUTUBE:END -->
-
-#### 🌐 Posts recentes no LinkedIn
-<!-- LINKEDIN:START -->
-- [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
-- [Cookie Policy](https://www.linkedin.com/legal/cookie-policy)
-- [User Agreement](https://www.linkedin.com/legal/user-agreement)
-<!-- LINKEDIN:END -->
