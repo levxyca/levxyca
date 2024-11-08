@@ -28,11 +28,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
-- [Tecnologia, comunicação e pessoas: descubra o papel de uma pessoa Tech Community Manager.](https://portfolio-blog-starter.vercel.app/blog/tech-community-manager)
-- [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://portfolio-blog-starter.vercel.app/blog/10-jogos-aprender-programacao)
-- [Diciotech: o dicionário tech colaborativo que você pode ajudar a construir](https://portfolio-blog-starter.vercel.app/blog/diciotech)
-- [Manipulando listas e mapas no Flutter](https://portfolio-blog-starter.vercel.app/blog/manipulando-listas-e-mapas-flutter)
-- [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://portfolio-blog-starter.vercel.app/blog/acessibilidade-apps-moveis)
+- [Tecnologia, comunicação e pessoas: descubra o papel de uma pessoa Tech Community Manager.](https://www.levxyca.com//blog/tech-community-manager)
+- [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://www.levxyca.com//blog/10-jogos-aprender-programacao)
+- [Diciotech: o dicionário tech colaborativo que você pode ajudar a construir](https://www.levxyca.com//blog/diciotech)
+- [Manipulando listas e mapas no Flutter](https://www.levxyca.com//blog/manipulando-listas-e-mapas-flutter)
+- [Desvendando a acessibilidade dos aplicativos móveis: descubra como testá-la.](https://www.levxyca.com//blog/acessibilidade-apps-moveis)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
