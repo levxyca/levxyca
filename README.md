@@ -47,4 +47,7 @@
 
 #### 🌐 Posts recentes no LinkedIn
 <!-- LINKEDIN:START -->
+- [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
+- [Cookie Policy](https://www.linkedin.com/legal/cookie-policy)
+- [User Agreement](https://www.linkedin.com/legal/user-agreement)
 <!-- LINKEDIN:END -->
