@@ -1,35 +1,29 @@
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 ```diff
-@@ Leticia 'levxyca' ⭐ @@
-@@ comunicação, tecnologia e pessoas! @@
+@@ Leticia @levxyca ⭐ @@
+@@ Comunicação, tecnologia e pessoas! @@
+@@ Criando conexões genuínas, capacitando pessoas e promovendo comunidades tecnológicas diversas e inclusivas.
 
-> tem hobbies demais;
-> é introvertida e comunicadora;
-> conversa sobre tech e aleatoriedades;
-> registra sua jornada pelas redes sociais.
+> Tem hobbies demais;
+> É introvertida e comunicativa;
+> Conversa sobre tech e aleatoriedades;
+> Registra sua jornada pelas redes sociais.
 
-! ‍desenvolvedora de mobile flutter
-! apaixonada por front-end
-! streamer de live coding
-! criadora de conteúdo de programação e tecnologia
-! co-fundadora/coordenadora da @feministech
-! tech community manager na abacatinhos.dev
-! estudante do universo de devlrel
+! Developer Relations
+! Apaixonada por front-end
+! Criadora de conteúdo de tecnologia e programação
+! Co-fundadora da https://feministech.com.br
 
-- alura star
-- github star
-- embaixadora women tech makers da google
+- Alura Star
+- Github Star
+- Embaixadora Women Tech Makers da Google
 ```
 
 #### 🔗 Me encontre
-
-<a href="https://twitter.com/levxyca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-<a href="https://dev.to/levxyca"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.youtube.com/channel/UC0oAypdScDI9WiwvebIqiOQ"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
-<a href="https://www.twitch.tv/levxyca"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
+<a href="https://levxyca.com"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 <a href="https://www.linkedin.com/in/leticiacaroline/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://www.polywork.com/levxyca"><img src="https://img.shields.io/badge/Polywork-0077B5?style=for-the-badge&logo=polywork&logoColor=white"></img></a>
+<a href="https://twitter.com/levxyca"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 
 #### ✍🏻 Blog posts recentes
 
