@@ -16,7 +16,7 @@
 ! Co-fundadora da https://feministech.com.br
 
 - Alura Star
-- Github Star
+- Github Star Alumni
 - Embaixadora Women Tech Makers da Google
 ```
 
