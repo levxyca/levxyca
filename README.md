@@ -28,11 +28,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [Vamos falar sobre programação funcional? Uma abordagem diferente para resolver problemas.](https://www.levxyca.com//blog/programacao-funcional)
 - [Impacto Invisível: Como Mensurar e Mostrar o Valor da Sua Comunidade Tech](https://www.levxyca.com//blog/impacto-invisivel)
 - [Desvendando o código aberto: junte-se à revolução colaborativa](https://www.levxyca.com//blog/desvendando-o-codigo-aberto)
 - [Tecnologia, comunicação e pessoas: descubra o papel de uma pessoa Tech Community Manager.](https://www.levxyca.com//blog/tech-community-manager)
 - [Desenvolva suas habilidades de programação de forma divertida: 10 jogos para aprender programação](https://www.levxyca.com//blog/10-jogos-aprender-programacao)
-- [Diciotech: o dicionário tech colaborativo que você pode ajudar a construir](https://www.levxyca.com//blog/diciotech)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
