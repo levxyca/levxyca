@@ -28,11 +28,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [Construindo aplicativos mais robustos e escaláveis com Flutter: desvendando a implementação da arquitetura MVVM](https://www.levxyca.com//blog/flutter-mvvm)
 - [Tech Community Manager não é só um Community Manager voltado para tecnologia. Descubra por quê!](https://www.levxyca.com//blog/tcm-versus-cm)
 - [Vamos falar sobre programação funcional? Uma abordagem diferente para resolver problemas.](https://www.levxyca.com//blog/programacao-funcional)
 - [Impacto Invisível: Como Mensurar e Mostrar o Valor da Sua Comunidade Tech](https://www.levxyca.com//blog/impacto-invisivel)
 - [Desvendando o código aberto: junte-se à revolução colaborativa](https://www.levxyca.com//blog/desvendando-o-codigo-aberto)
-- [Tecnologia, comunicação e pessoas: descubra o papel de uma pessoa Tech Community Manager.](https://www.levxyca.com//blog/tech-community-manager)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
