@@ -28,11 +28,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [O que é Developer Relations &lpar;DevRel&rpar;?](https://www.levxyca.com//blog/o-que-e-devrel)
 - [&#39;De Dev para Dev: por que parei de fazer &#39;projetos de curso&#39; e o que mudou na minha carreira](https://www.levxyca.com//blog/de-dev-para-dev-projetos-de-curso)
 - [O que eu aprendi em um ano como Tech Community Manager?](https://www.levxyca.com//blog/1-ano-como-tech-community)
 - [O que é essa tal de construção de relacionamentos que tanto falam em Developer Relations?](https://www.levxyca.com//blog/dev-rel)
 - [Construindo aplicativos mais robustos e escaláveis com Flutter: desvendando a implementação da arquitetura MVVM](https://www.levxyca.com//blog/flutter-mvvm)
-- [Tech Community Manager não é só um Community Manager voltado para tecnologia. Descubra por quê!](https://www.levxyca.com//blog/tcm-versus-cm)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
