@@ -38,9 +38,9 @@
 #### 📺 Videos recentes no Youtube
 
 <!-- YOUTUBE:START -->
-- [🔗 Vem fazer parte de uma comunidade que vai transformar sua carreira! 🙌 https://impulso.link/yC4Q67](https://www.youtube.com/watch?v=cVfVnhvHUPQ)
-- [Já ficou com aquele sentimento de não encontrar o que queria no universo da tecnologia? #tech](https://www.youtube.com/watch?v=lwyRtn4f874)
-- [unboxing alura stars ⭐](https://www.youtube.com/watch?v=QqNW2OFz6Kg)
+- [🔗 Vem fazer parte de uma comunidade que vai transformar sua carreira! 🙌 https://impulso.link/yC4Q67](https://www.youtube.com/shorts/cVfVnhvHUPQ)
+- [Já ficou com aquele sentimento de não encontrar o que queria no universo da tecnologia? #tech](https://www.youtube.com/shorts/lwyRtn4f874)
+- [unboxing alura stars ⭐](https://www.youtube.com/shorts/QqNW2OFz6Kg)
 - [unboxing github stars ⭐](https://www.youtube.com/watch?v=bhWco_QQPgM)
 - [Como foi meu 1º período de Análise de Sistemas](https://www.youtube.com/watch?v=X9egRFG0u48)
 <!-- YOUTUBE:END -->
