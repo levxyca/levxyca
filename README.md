@@ -28,11 +28,11 @@
 #### ✍🏻 Blog posts recentes
 
 <!-- BLOG:START -->
+- [DevRel não é marketing: por que o dev não vai te ouvir se não se sentir representado por você?](https://www.levxyca.com//blog/devrel-nao-e-marketing)
 - [Por que seu projeto Open Source precisa de um Guia de Contribuição &lpar;e como criar um hoje mesmo&rpar;](https://www.levxyca.com//blog/porque-seu-projeto-open-source-precisa-de-guia-de-contribuicao)
 - [Preciso ser dev pra ser DevRel?](https://www.levxyca.com//blog/preciso-ser-dev-para-ser-devrel)
 - [O que é Developer Relations &lpar;DevRel&rpar;?](https://www.levxyca.com//blog/o-que-e-devrel)
 - [&#39;De Dev para Dev: por que parei de fazer &#39;projetos de curso&#39; e o que mudou na minha carreira](https://www.levxyca.com//blog/de-dev-para-dev-projetos-de-curso)
-- [O que eu aprendi em um ano como Tech Community Manager?](https://www.levxyca.com//blog/1-ano-como-tech-community)
 <!-- BLOG:END -->
 
 #### 📺 Videos recentes no Youtube
